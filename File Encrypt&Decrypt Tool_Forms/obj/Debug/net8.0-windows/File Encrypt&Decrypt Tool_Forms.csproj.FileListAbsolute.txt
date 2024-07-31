@@ -1,0 +1,16 @@
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\bin\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.exe
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\bin\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.deps.json
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\bin\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.runtimeconfig.json
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\bin\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.dll
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\bin\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.pdb
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File_Encrypt_Decrypt_Tool_Forms.FileEncrypt_Decrypt.resources
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.csproj.GenerateResource.cache
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.AssemblyInfoInputs.cache
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.AssemblyInfo.cs
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.csproj.CoreCompileInputs.cache
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.dll
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\refint\File Encrypt&Decrypt Tool_Forms.dll
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.pdb
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File Encrypt&Decrypt Tool_Forms.genruntimeconfig.cache
+G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\ref\File Encrypt&Decrypt Tool_Forms.dll
