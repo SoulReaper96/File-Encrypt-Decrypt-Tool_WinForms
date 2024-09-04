@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Security.Cryptography;
@@ -107,6 +108,26 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             byte[] cipherBytes = Convert.FromBase64String(encryptedText);
             byte[] plainBytes = rsa.Decrypt(cipherBytes, false);
             return Encoding.UTF8.GetString(plainBytes);
+        }
+
+        private void OpenFile_btn_Click(object sender, EventArgs e)
+        {
+            string filePath = TxtFilePath.Text + ".enc";
+            if (File.Exists(filePath))
+            {
+                try
+                {
+                    Process.Start(new ProcessStartInfo(filePath) { UseShellExecute = true });
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("An error occurred while opening the file: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Encrypted file not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

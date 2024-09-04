@@ -1,5 +1,9 @@
+using System;
+using System.Diagnostics;
+using System.IO;
 using System.Security.Cryptography;
 using System.Text;
+using System.Windows.Forms;
 
 namespace File_Encrypt_Decrypt_Tool_Forms
 {
@@ -37,9 +41,14 @@ namespace File_Encrypt_Decrypt_Tool_Forms
                 return;
             }
 
+            if (aesKey == null || aesIV == null)
+            {
+                MessageBox.Show("Please generate the key and IV first.");
+                return;
+            }
+
             try
             {
-
                 byte[] encrypted = Encrypt(TxtFilePath.Text, aesKey, aesIV);
                 File.WriteAllBytes(TxtFilePath.Text + ".enc", encrypted);
                 MessageBox.Show("File encrypted successfully.");
@@ -55,6 +64,12 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             if (string.IsNullOrEmpty(TxtFilePath.Text) || string.IsNullOrEmpty(Key_txtBox.Text))
             {
                 MessageBox.Show("Please select a file to decrypt.");
+                return;
+            }
+
+            if (aesKey == null || aesIV == null)
+            {
+                MessageBox.Show("Please generate the key and IV first.");
                 return;
             }
 
@@ -141,6 +156,26 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             ToolMainMenu toolMainMenu = new ToolMainMenu();
             toolMainMenu.Show();
             this.Hide();
+        }
+
+        private void OpenFile_btn_Click(object sender, EventArgs e)
+        {
+            string filePath = TxtFilePath.Text + ".enc";
+            if (File.Exists(filePath))
+            {
+                try
+                {
+                    Process.Start(new ProcessStartInfo(filePath) { UseShellExecute = true });
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("An error occurred while opening the file: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Encrypted file not found.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

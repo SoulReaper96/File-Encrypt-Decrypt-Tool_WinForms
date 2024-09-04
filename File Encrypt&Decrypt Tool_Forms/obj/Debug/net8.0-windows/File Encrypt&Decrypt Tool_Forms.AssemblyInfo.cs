@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("File Encrypt&Decrypt Tool_Forms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7d35b4ad5ed3098f08da48a3f76ea3233665654")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8148391914b6144d33cc0adc0908b12124215ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("File Encrypt&Decrypt Tool_Forms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("File Encrypt&Decrypt Tool_Forms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

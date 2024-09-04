@@ -53,6 +53,7 @@
             OpenFile_btn.TabIndex = 35;
             OpenFile_btn.Text = "VIEW FILE";
             OpenFile_btn.UseVisualStyleBackColor = true;
+            OpenFile_btn.Click += OpenFile_btn_Click;
             // 
             // GenerateKey_btn
             // 

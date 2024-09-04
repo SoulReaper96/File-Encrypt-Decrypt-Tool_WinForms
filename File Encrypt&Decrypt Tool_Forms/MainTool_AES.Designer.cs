@@ -156,6 +156,7 @@
             OpenFile_btn.TabIndex = 11;
             OpenFile_btn.Text = "VIEW FILE";
             OpenFile_btn.UseVisualStyleBackColor = true;
+            OpenFile_btn.Click += OpenFile_btn_Click;
             // 
             // FileEncrypt_Decrypt
             // 
