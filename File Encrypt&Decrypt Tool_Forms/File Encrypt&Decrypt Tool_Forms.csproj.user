@@ -7,6 +7,9 @@
     <Compile Update="MainTool_DES.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="MainTool_RSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="MainTool_TripleDES.cs">
       <SubType>Form</SubType>
     </Compile>

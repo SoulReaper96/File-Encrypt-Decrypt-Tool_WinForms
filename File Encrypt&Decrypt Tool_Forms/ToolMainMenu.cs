@@ -47,5 +47,12 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             mainTool_TripleDES.Show();
             this.Hide();
         }
+
+        private void RSA_btn_Click(object sender, EventArgs e)
+        {
+            MainTool_RSA mainTool_RSA = new MainTool_RSA();
+            mainTool_RSA.Show();
+            this.Hide();
+        }
     }
 }

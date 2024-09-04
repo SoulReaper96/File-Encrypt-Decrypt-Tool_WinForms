@@ -11,7 +11,7 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FileEncrypt_Decrypt());
+            Application.Run(new ToolMainMenu());
         }
     }
 }

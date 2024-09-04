@@ -61,7 +61,7 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             try
             {
                 byte[] decrypted = Decrypt(TxtFilePath.Text, aesKey, aesIV);
-                File.WriteAllBytes(TxtFilePath.Text.Replace(".enc", ""), decrypted);
+                File.WriteAllBytes(TxtFilePath.Text.Replace(".enc", ".dec"), decrypted);
                 MessageBox.Show("File decrypted successfully.");
             }
             catch (Exception ex)

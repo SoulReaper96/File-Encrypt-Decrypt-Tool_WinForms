@@ -81,6 +81,7 @@
             RSA_btn.TabIndex = 11;
             RSA_btn.Text = "RSA";
             RSA_btn.UseVisualStyleBackColor = false;
+            RSA_btn.Click += RSA_btn_Click;
             // 
             // DES_btn
             // 
