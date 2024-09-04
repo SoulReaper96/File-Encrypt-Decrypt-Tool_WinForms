@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = File_Encrypt_Decrypt_Tool_Forms
-build_property.ProjectDir = G:\Studies\File Encrypt&Decrypt Tool_Forms\File Encrypt&Decrypt Tool_Forms\
+build_property.ProjectDir = G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encrypt&Decrypt Tool_Forms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

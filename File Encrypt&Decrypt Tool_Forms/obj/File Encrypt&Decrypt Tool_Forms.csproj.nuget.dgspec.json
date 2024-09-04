@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Studies\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj": {}
+    "G:\\GitHub Repo Cloned\\SoulReaper96\\File-Encrypt-Decrypt-Tool_WinForms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj": {}
   },
   "projects": {
-    "G:\\Studies\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj": {
+    "G:\\GitHub Repo Cloned\\SoulReaper96\\File-Encrypt-Decrypt-Tool_WinForms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Studies\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj",
+        "projectUniqueName": "G:\\GitHub Repo Cloned\\SoulReaper96\\File-Encrypt-Decrypt-Tool_WinForms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj",
         "projectName": "File Encrypt&Decrypt Tool_Forms",
-        "projectPath": "G:\\Studies\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj",
+        "projectPath": "G:\\GitHub Repo Cloned\\SoulReaper96\\File-Encrypt-Decrypt-Tool_WinForms\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "G:\\Studies\\File Encrypt&Decrypt Tool_Forms\\File Encrypt&Decrypt Tool_Forms\\obj\\",
+        "outputPath": "G:\\GitHub Repo Cloned\\SoulReaper96\\File-Encrypt-Decrypt-Tool_WinForms\\File Encrypt&Decrypt Tool_Forms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -29,6 +29,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files (x86)\\Nevron OpenVision\\NugetPackage\\nevronopenvision": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
