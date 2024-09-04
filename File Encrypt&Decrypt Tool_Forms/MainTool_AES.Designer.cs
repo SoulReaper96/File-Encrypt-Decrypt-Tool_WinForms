@@ -136,6 +136,7 @@
             Return_pb.SizeMode = PictureBoxSizeMode.StretchImage;
             Return_pb.TabIndex = 9;
             Return_pb.TabStop = false;
+            Return_pb.Click += Return_pb_Click;
             // 
             // GenerateKey_btn
             // 

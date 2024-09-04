@@ -135,5 +135,12 @@ namespace File_Encrypt_Decrypt_Tool_Forms
         {
             Application.Exit();
         }
+
+        private void Return_pb_Click(object sender, EventArgs e)
+        {
+            ToolMainMenu toolMainMenu = new ToolMainMenu();
+            toolMainMenu.Show();
+            this.Hide();
+        }
     }
 }
