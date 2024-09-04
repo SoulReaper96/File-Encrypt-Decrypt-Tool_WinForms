@@ -40,5 +40,12 @@ namespace File_Encrypt_Decrypt_Tool_Forms
             mainTool_DES.Show();
             this.Hide();
         }
+
+        private void TripleDES_btn_Click(object sender, EventArgs e)
+        {
+            MainTool_TripleDES mainTool_TripleDES = new MainTool_TripleDES();
+            mainTool_TripleDES.Show();
+            this.Hide();
+        }
     }
 }

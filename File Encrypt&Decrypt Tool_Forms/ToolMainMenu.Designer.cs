@@ -112,6 +112,7 @@
             TripleDES_btn.TabIndex = 13;
             TripleDES_btn.Text = "TRIPLE DES";
             TripleDES_btn.UseVisualStyleBackColor = false;
+            TripleDES_btn.Click += TripleDES_btn_Click;
             // 
             // About_lbl
             // 

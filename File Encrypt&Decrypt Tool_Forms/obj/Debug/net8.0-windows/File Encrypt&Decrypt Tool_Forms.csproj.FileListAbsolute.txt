@@ -34,3 +34,4 @@ G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encry
 G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\ref\File Encrypt&Decrypt Tool_Forms.dll
 G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File_Encrypt_Decrypt_Tool_Forms.ToolMainMenu.resources
 G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File_Encrypt_Decrypt_Tool_Forms.MainTool_DES.resources
+G:\GitHub Repo Cloned\SoulReaper96\File-Encrypt-Decrypt-Tool_WinForms\File Encrypt&Decrypt Tool_Forms\obj\Debug\net8.0-windows\File_Encrypt_Decrypt_Tool_Forms.MainTool_TripleDES.resources
