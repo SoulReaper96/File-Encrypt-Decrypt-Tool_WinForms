@@ -33,5 +33,12 @@ namespace File_Encrypt_Decrypt_Tool_Forms
         {
             MessageBox.Show("File Encrypt&Decrypt Tool\n\n\nCreated by: SoulReaper96\nVersion: 1.0", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void DES_btn_Click(object sender, EventArgs e)
+        {
+            MainTool_DES mainTool_DES = new MainTool_DES();
+            mainTool_DES.Show();
+            this.Hide();
+        }
     }
 }

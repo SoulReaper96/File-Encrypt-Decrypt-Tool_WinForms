@@ -4,6 +4,9 @@
     <Compile Update="MainTool_AES.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="MainTool_DES.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ToolMainMenu.cs">
       <SubType>Form</SubType>
     </Compile>

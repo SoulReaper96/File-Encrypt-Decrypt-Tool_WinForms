@@ -96,6 +96,7 @@
             DES_btn.TabIndex = 12;
             DES_btn.Text = "DES";
             DES_btn.UseVisualStyleBackColor = false;
+            DES_btn.Click += DES_btn_Click;
             // 
             // TripleDES_btn
             // 
