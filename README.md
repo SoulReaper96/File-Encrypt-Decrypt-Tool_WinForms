@@ -4,6 +4,7 @@ Overview
 This is a Windows Forms application developed in C# that provides functionality for encrypting and decrypting files. The tool uses the AES encryption algorithm to ensure the security and integrity of your data.
 
 Features
+Supports Various Algorithms: RSA, AES, DES, Triple DES.
 File Encryption: Encrypt any file using a secure encryption algorithm.
 File Decryption: Decrypt previously encrypted files.
 User-Friendly Interface: Simple and intuitive interface for easy use.
